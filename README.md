@@ -69,5 +69,5 @@ An optional admin dashboard is included for managing themes and predefined socia
 ## 🎥 Demo Video
 [![Namecard Digital Name Card Platform Demo](https://vumbnail.com/1156746818.jpg)](https://vimeo.com/1156746818)
 
-This video demonstrates the AI-powered healthcare workflow, including user registration,
-AI-assisted analysis, and admin management features.
+This demo showcases the Namecard digital name card platform, demonstrating key features such as
+user registration, digital business card creation, contact list management, and admin dashboard functionality.
