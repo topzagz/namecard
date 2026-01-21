@@ -67,7 +67,7 @@ An optional admin dashboard is included for managing themes and predefined socia
 - The Admin dashboard is optional and can be enabled depending on the project scope.
 
 ## 🎥 Demo Video
-[![Namecard Digital Name Card Platform Demo](https://vumbnail.com/1156746818.jpg)](https://vimeo.com/1156746818)
+[![Namecard Digital Name Card Platform Demo](https://vumbnail.com/1156778023.jpg)](https://vimeo.com/1156778023)
 
 This demo showcases the Namecard digital name card platform, demonstrating key features such as
 user registration, digital business card creation, contact list management, and admin dashboard functionality.
